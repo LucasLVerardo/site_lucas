@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url('url('../img/Cartaz.jpg')');
+  background-image: url('../img/Cartaz.jpg');
   background-size: auto 100vh; 
   font-family: Arial;
   height: 100vh;
